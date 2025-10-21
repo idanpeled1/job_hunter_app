@@ -1,0 +1,57 @@
+### Configuration for the Job Hunter application
+### Copy this file to `config.yaml` and adjust values as needed.
+
+## Google Programmable Search Engine settings
+# API key for the Google CSE.  You can also provide this via the
+# environment variable GOOGLE_CSE_KEY.
+google_cse_key: "PUT_YOUR_GOOGLE_CSE_KEY_HERE"
+# CX identifier for your CSE.  You can also provide this via
+# environment variable GOOGLE_CSE_CX.
+google_cse_cx: "PUT_YOUR_CSE_ID_HERE"
+
+## Sites to search
+# List of domains to query.  These should be publicly accessible pages
+# that list job openings.  Remove sites that are not relevant to your
+# search to reduce noise.
+sites:
+  # Public sector and non‑profit portals
+  - gov.il
+  - jobs.gov.il
+  - jerusalem.muni.il
+  - tel-aviv.gov.il
+  - akim.org.il
+  - gvanim.org.il
+  - thejoint.org.il
+  # Commercial sites – only ESG or partnerships roles will be returned
+  - tnuva.co.il
+  - strauss-group.co.il
+  - mekorot.co.il
+
+## Keywords
+# Every word in this list must appear for the job to be considered a
+# strong match.  Leave empty if you only want to use `keywords_any`.
+keywords_all:
+  - ESG
+
+# At least one of the following words should appear to give the job a
+# higher score.  Words are case‑insensitive.
+keywords_any:
+  - קיימות
+  - אחריות תאגידית
+  - partnerships
+  - שותפויות
+  - פיתוח קהילות
+
+## Locations (optional)
+# Boost results containing these words.  If left empty, location will
+# not be factored into scoring.
+locations:
+  - גוש דן
+  - ירושלים
+
+## Avoid terms (optional)
+# Any job containing these words will be penalised.  Use this to filter
+# out roles you are not interested in (e.g. student or part‑time roles).
+avoid:
+  - סטודנט
+  - חלקי
