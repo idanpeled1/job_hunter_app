@@ -20,13 +20,13 @@
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
-* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי](https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2022/2022.5/2022.5-211-Migvan-Biology.pdf) — gov.il (score 0.50)
-  
-  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים. נמצאו. שני. מוקדים. ;. מאז. אותרו מוקדים. נוספים. באזור. 2011. גליל.
-
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2023 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אשר יבחן את החלופות הבאות לעניין ...
+
+* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי](https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2022/2022.5/2022.5-211-Migvan-Biology.pdf) — gov.il (score 0.50)
+  
+  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים. נמצאו. שני. מוקדים. ;. מאז. אותרו מוקדים. נוספים. באזור. 2011. גליל.
 
 * [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
