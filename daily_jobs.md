@@ -8,10 +8,6 @@
   
   Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח. הציבורי. מהווה. תחום. שגם. ממשלת. ישראל,. מתוך. הירתמות.
 
-* [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
-  
-  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
-
 * [דין וחשבון על החברות הממשלתיות](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
@@ -39,4 +35,8 @@
 * [החשב הכללי](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
   Jun 29, 2025 ... ... ירושלים בע"מ. 9. שנים קודמות. הסתייגות. שקמונה חברה ממשלתית עירונית לשיקום הדיור בחיפה בע"מ. 9. מבוקר. חלקה. Page 18. מבוא ל. דוחות. ה. כספיים ...
+
+* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
+  
+  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
