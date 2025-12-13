@@ -1,12 +1,12 @@
 # Daily Jobs Digest
 
+* [וחשבון דין הממשלתיות החברות על 2021 לשנת](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-accessible-version.pdf) — gov.il (score 3.00)
+  
+  ... גוש. דן,. ובכללן. החלטות. הדוחות. את. מועדי. סיום. הפעלת. אתר. רדינג. והקפאת. הקמת. שתי ... ESG. 2.10 . השתתפות. במחקרים. בין. -. לאומיי. ם. לקידום. קיימות.
+
 * [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.00)
   
   ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... הדרכים. מסביב. למטרופולין. גוש. דן. ,. לתקופה. של. 25. שנה. ,. עד. לשנת .2031. הכביש.
-
-* [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
-  
-  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
 * [דין וחשבון על החברות הממשלתיות](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
