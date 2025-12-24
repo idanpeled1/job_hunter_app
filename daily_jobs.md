@@ -8,9 +8,9 @@
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
-* [Untitled](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
+* [ארכיון וובינר - עמוד 2 מתוך 4 - מכון היצוא](https://export.gov.il/college_events_type/webinar/page/2/) — gov.il (score 1.00)
   
-  Jun 30, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים. בשנים האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
+  Jul 2, 2024 ... Tips for doing business and Canadian business culture; Our Methodology; Q & A. Speaker: David Teffaine is the Director of Partnerships and ...
 
 * [דין וחשבון על החברות הממשלתיות](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
