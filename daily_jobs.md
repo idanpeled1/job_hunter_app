@@ -1,8 +1,8 @@
 # Daily Jobs Digest
 
-* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.50)
+* [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
   
-  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... ירושלים. -. קו. אדום. 2,726. -. ) 2,726. (. -. 1,225. 40. ) 1,265.
+  ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
 
 * [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
