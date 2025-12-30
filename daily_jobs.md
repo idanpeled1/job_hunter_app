@@ -4,9 +4,9 @@
   
   ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
 
-* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31](https://www.gov.il/BlobFolder/news/press_30062022_b/he/PressReleases_files_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.00)
+* [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
-  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח. הציבורי. מהווה. תחום. שגם. ממשלת. ישראל,. מתוך. הירתמות.
+  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
 * [ארכיון וובינר - עמוד 2 מתוך 4 - מכון היצוא](https://export.gov.il/college_events_type/webinar/page/2/) — gov.il (score 1.00)
   
