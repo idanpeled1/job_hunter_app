@@ -1,16 +1,12 @@
 # Daily Jobs Digest
 
-* [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 2.50)
-  
-  ה-ESG; מתן משקל ומשאבים משמעותיים לעולמות ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון טיוב מערכי הסעת המונים כמו אוטובוסים ורכבות קלות.
-
 * [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
   
   ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
 
-* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31](https://www.gov.il/BlobFolder/news/press_30062022_b/he/PressReleases_files_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.00)
+* [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
-  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח. הציבורי. מהווה. תחום. שגם. ממשלת. ישראל,. מתוך. הירתמות.
+  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
 * [דין וחשבון על החברות הממשלתיות](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
@@ -19,6 +15,10 @@
 * [הסרת חסמים לקידום חדשנות אקלים בישראל | ינואר 2023 | המכון הישראלי ...](https://fs.knesset.gov.il/25/Committees/25_cs_bg_4670333.pdf) — gov.il (score 1.00)
   
   Jan 8, 2023 ... , ירושלים: המכון הישראלי לדמוקרטיה, 2021.פחמן. ישראל 2050 - כלכלה ... בהקשר של גוש דן, ד"ר נורית גל הראתה בעבודתה שעלות של הקמת תחנות גז ...
+
+* [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 1.00)
+  
+  ברמה. הגיאוגרפית נשמר הייצוג של שמונה מחוזות: צפון, חיפה, השרון, תל אביב, המרכז, ירושלים, הדרום ויו"ש. ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון ...
 
 * [דוחות כספים ליום 31 בדצמבר 2024](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
