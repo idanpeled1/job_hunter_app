@@ -4,13 +4,17 @@
   
   ה-ESG; מתן משקל ומשאבים משמעותיים לעולמות ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון טיוב מערכי הסעת המונים כמו אוטובוסים ורכבות קלות.
 
-* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.50)
+* [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
   
-  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... ירושלים. -. קו. אדום. 2,726. -. ) 2,726. (. -. 1,225. 40. ) 1,265.
+  ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
 
 * [דוח מדינת ישראל 2023 - דוח נגיש](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
+
+* [Untitled](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
+  
+  Jun 30, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים. בשנים האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
 * [דין וחשבון על החברות הממשלתיות](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
@@ -35,8 +39,4 @@
 * [החשב הכללי](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
   Jun 29, 2025 ... ... ירושלים בע"מ. 9. שנים קודמות. הסתייגות. שקמונה חברה ממשלתית עירונית לשיקום הדיור בחיפה בע"מ. 9. מבוקר. חלקה. Page 18. מבוא ל. דוחות. ה. כספיים ...
-
-* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
-  
-  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
