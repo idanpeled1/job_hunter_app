@@ -34,7 +34,7 @@
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
-  Jun 29, 2025 ... ... ירושלים בע"מ. 9. שנים קודמות. הסתייגות. שקמונה חברה ממשלתית עירונית לשיקום הדיור בחיפה בע"מ. 9. מבוקר. חלקה. Page 18. מבוא ל. דוחות. ה. כספיים ...
+  Jun 29, 2025 ... בית נשיא המדינה הוא מקום משכנו של נשיא המדינה בירושלים. עיקרי פעילות בית הנשיא הם מתן. חנינות והקלות בעונשים, הטלת מנדט להרכבת הממשלה, השתתפות ...
 
 * [הדוחות הכספיים של מדינת ישראל לשנת 2023 (קובץ לא מונגש) - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
