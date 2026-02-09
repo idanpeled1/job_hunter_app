@@ -4,6 +4,10 @@
   
   ה-ESG; מתן משקל ומשאבים משמעותיים לעולמות ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון טיוב מערכי הסעת המונים כמו אוטובוסים ורכבות קלות.
 
+* [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
+  
+  ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
+
 * [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31 - Gov.il](https://www.gov.il/BlobFolder/news/press_30062022_b/he/PressReleases_files_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
   Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח. הציבורי. מהווה. תחום. שגם. ממשלת. ישראל,. מתוך. הירתמות.
@@ -35,8 +39,4 @@
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
   Jun 29, 2025 ... ... ירושלים בע"מ. 9. שנים קודמות. הסתייגות. שקמונה חברה ממשלתית עירונית לשיקום הדיור בחיפה בע"מ. 9. מבוקר. חלקה. Page 18. מבוא ל. דוחות. ה. כספיים ...
-
-* [הדוחות הכספיים של מדינת ישראל לשנת 2023 (קובץ לא מונגש) - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.50)
-  
-  Jun 30, 2024 ... זכיין הפרויקט הוא חברת כפיר. רכבת. קלה בע"מ . נתיבים מהירים בגוש דן. -. ציר האורך. הסכם בשיטת. P.F.I. לנתיבים מהירים לאורך כביש. ים.
 
