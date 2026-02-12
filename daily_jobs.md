@@ -12,10 +12,6 @@
   
   Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח. הציבורי. מהווה. תחום. שגם. ממשלת. ישראל,. מתוך. הירתמות.
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
-  
-  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
-
 * [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
@@ -36,7 +32,11 @@
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
-* [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.50)
+* [הדוחות הכספיים של מדינת ישראל לשנת 2023 (קובץ לא מונגש) - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.50)
   
-  Jun 29, 2025 ... בית נשיא המדינה הוא מקום משכנו של נשיא המדינה בירושלים. עיקרי פעילות בית הנשיא הם מתן. חנינות והקלות בעונשים, הטלת מנדט להרכבת הממשלה, השתתפות ...
+  Jun 30, 2024 ... זכיין הפרויקט הוא חברת כפיר. רכבת. קלה בע"מ . נתיבים מהירים בגוש דן. -. ציר האורך. הסכם בשיטת. P.F.I. לנתיבים מהירים לאורך כביש. ים.
+
+* [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
+  
+  Jun 29, 2025 ... אני מתכבד להציג בפניכם את הדוחות הכספיים המאוחדים של מדינת ישראל ל. שנת הכספים שהסתיימה. ב. יום. 31. בדצמבר. 2024 . דוחות.
 
