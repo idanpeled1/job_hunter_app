@@ -4,6 +4,10 @@
   
   ה-ESG; מתן משקל ומשאבים משמעותיים לעולמות ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון טיוב מערכי הסעת המונים כמו אוטובוסים ורכבות קלות.
 
+* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31 - Gov.il](https://www.gov.il/BlobFolder/news/press_30062022_b/he/PressReleases_files_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.50)
+  
+  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... ירושלים. -. קו. אדום. 2,726. -. ) 2,726. (. -. 1,225. 40. ) 1,265.
+
 * [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
@@ -19,10 +23,6 @@
 * [ארכיון וובינר - עמוד 2 מתוך 4 - מכון היצוא](https://export.gov.il/college_events_type/webinar/page/2/) — gov.il (score 0.50)
   
   Jul 2, 2024 ... טרם הצטרפותה למסלול הכשרת נספחים כלכליים, שימשה עינב כמנהלת פרויקט נתיבים מהירים לגוש דן בחברת 'ענבל' – זרוע ביצוע של אגף החשכ”ל במשרד האוצר ...
-
-* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
-  
-  Dec 31, 2023 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל ... רשת ההולכה פרושה על פני כל מדינת ישראל והשטחים הנתונים תחת שלטונה מאז יוני.
 
 * [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
