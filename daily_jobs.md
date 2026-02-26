@@ -1,9 +1,5 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 3.00)
-  
-  Jun 30, 2024 ... מדינת ישראל רואה חשיבות רבה בקידום הצעדים והמשאבים המושקעים בהיבטי קיימות, סביבה, אקלים וחברה. (להלן. ": ESG. " ). בשנים האחרונות תחומי ה. -.
-
 * [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 2.50)
   
   ה-ESG; מתן משקל ומשאבים משמעותיים לעולמות ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון טיוב מערכי הסעת המונים כמו אוטובוסים ורכבות קלות.
@@ -20,9 +16,9 @@
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
-* [ארכיון וובינר - עמוד 2 מתוך 4 - מכון היצוא](https://export.gov.il/college_events_type/webinar/page/2/) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
-  Jul 2, 2024 ... טרם הצטרפותה למסלול הכשרת נספחים כלכליים, שימשה עינב כמנהלת פרויקט נתיבים מהירים לגוש דן בחברת 'ענבל' – זרוע ביצוע של אגף החשכ”ל במשרד האוצר ...
+  Dec 31, 2023 ... ... בגוש דן". הדוח. בחן את התקדמות פרויקט ההקמה של קווי הרכבת הקלה בגוש דן. –. הקו האדום, הקו הסגול והקו הירוק. מדובר בדוח מקיף, העוסק. במגוון ...
 
 * [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
@@ -35,6 +31,10 @@
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
+
+* [ארכיון וובינר - עמוד 2 מתוך 4 - מכון היצוא](https://export.gov.il/college_events_type/webinar/page/2/) — gov.il (score 0.00)
+  
+  Jul 2, 2024 ... דוברת: אביגיל שטמלר פז – בוגרת קורס הצוערים הכלכליים לשנת 2017, מכהנת כיום כראש הנספחות הכלכלית בבוקרשט, רומניה. בנוסף, אביגיל אחראית על הפעילות ...
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
