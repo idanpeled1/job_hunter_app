@@ -8,10 +8,6 @@
   
   Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... ירושלים. -. קו. אדום. 2,726. -. ) 2,726. (. -. 1,225. 40. ) 1,265.
 
-* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
-  
-  Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
-
 * [הסרת חסמים לקידום חדשנות אקלים בישראל - המכון הישראלי לדמוקרטיה](https://fs.knesset.gov.il/25/Committees/25_cs_bg_4670333.pdf) — gov.il (score 1.00)
   
   Jan 8, 2023 ... , ירושלים: המכון הישראלי לדמוקרטיה, 2021.פחמן. ישראל 2050 - כלכלה ... בהקשר של גוש דן, ד"ר נורית גל הראתה בעבודתה שעלות של הקמת תחנות גז ...
@@ -19,6 +15,10 @@
 * [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 1.00)
   
   ברמה. הגיאוגרפית נשמר הייצוג של שמונה מחוזות: צפון, חיפה, השרון, תל אביב, המרכז, ירושלים, הדרום ויו"ש. ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון ...
+
+* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+  
+  Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
