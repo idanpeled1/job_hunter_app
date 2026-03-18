@@ -4,13 +4,13 @@
   
   Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
-* [ישראל דינת מ ליום כספיים דוחות 2021 בדצמבר 31 - Gov.il](https://www.gov.il/BlobFolder/news/press_30062022_b/he/PressReleases_files_financial-reports-2021-UnAccessibleFile.pdf) — gov.il (score 2.50)
-  
-  Jun 30, 2022 ... ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו ... ירושלים. -. קו. אדום. 2,726. -. ) 2,726. (. -. 1,225. 40. ) 1,265.
-
 * [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
   
   Apr 17, 2024 ... זור גוש דן,. לצמצם היקף הטמנה, למנוע פליטת גז. י חממה ולייצר חשמל ... ESG. -. Environmental, Social. Governance. ) ,תונידמ לש ןתוליעפ תמדקב ...
+
+* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+  
+  Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
 * [הסרת חסמים לקידום חדשנות אקלים בישראל - המכון הישראלי לדמוקרטיה](https://fs.knesset.gov.il/25/Committees/25_cs_bg_4670333.pdf) — gov.il (score 1.00)
   
@@ -19,10 +19,6 @@
 * [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 1.00)
   
   ברמה. הגיאוגרפית נשמר הייצוג של שמונה מחוזות: צפון, חיפה, השרון, תל אביב, המרכז, ירושלים, הדרום ויו"ש. ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון ...
-
-* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
-  
-  Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - מבקר המדינה](https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2022/2022.5/2022.5-211-Migvan-Biology.pdf) — gov.il (score 0.50)
   
@@ -35,6 +31,10 @@
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
+
+* [בינה מלאכותית בסקטור האנרגיה - אתר הכנסת – דף הבית](https://fs.knesset.gov.il/globaldocs/MMM/184dd353-1b7b-ef11-8160-005056aac6c3/2_184dd353-1b7b-ef11-8160-005056aac6c3_11_20691.pdf) — gov.il (score 0.50)
+  
+  Nov 7, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
