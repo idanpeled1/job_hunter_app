@@ -1,12 +1,12 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
-  
-  Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
-
 * [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
   
   Apr 17, 2024 ... זור גוש דן,. לצמצם היקף הטמנה, למנוע פליטת גז. י חממה ולייצר חשמל ... ESG. -. Environmental, Social. Governance. ) ,תונידמ לש ןתוליעפ תמדקב ...
+
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
+  
+  Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
 * [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
@@ -15,10 +15,6 @@
 * [הסרת חסמים לקידום חדשנות אקלים בישראל - המכון הישראלי לדמוקרטיה](https://fs.knesset.gov.il/25/Committees/25_cs_bg_4670333.pdf) — gov.il (score 1.00)
   
   Jan 8, 2023 ... , ירושלים: המכון הישראלי לדמוקרטיה, 2021.פחמן. ישראל 2050 - כלכלה ... בהקשר של גוש דן, ד"ר נורית גל הראתה בעבודתה שעלות של הקמת תחנות גז ...
-
-* [פעילות בנק ישראל בזווית התקשורתית וההסברה הכלכלית לציבור דוח לשנת ...](https://kamakama.gov.il/media/pnig14gd/press3.pdf) — gov.il (score 1.00)
-  
-  ברמה. הגיאוגרפית נשמר הייצוג של שמונה מחוזות: צפון, חיפה, השרון, תל אביב, המרכז, ירושלים, הדרום ויו"ש. ... התחבורה – בעיקר הציבורית - בגוש דן וברחבי המדינה, כגון ...
 
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - מבקר המדינה](https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2022/2022.5/2022.5-211-Migvan-Biology.pdf) — gov.il (score 0.50)
   
