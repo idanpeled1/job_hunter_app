@@ -8,6 +8,10 @@
   
   Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
+* [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
+  
+  Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
+
 * [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
@@ -31,10 +35,6 @@
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
-
-* [בינה מלאכותית בסקטור האנרגיה - אתר הכנסת](https://fs.knesset.gov.il/globaldocs/MMM/184dd353-1b7b-ef11-8160-005056aac6c3/2_184dd353-1b7b-ef11-8160-005056aac6c3_11_20691.pdf) — gov.il (score 0.50)
-  
-  Nov 7, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
