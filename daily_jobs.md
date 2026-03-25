@@ -1,12 +1,12 @@
 # Daily Jobs Digest
 
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 3.00)
+  
+  Jun 30, 2024 ... מדינת ישראל רואה חשיבות רבה בקידום הצעדים והמשאבים המושקעים בהיבטי קיימות, סביבה, אקלים וחברה. (להלן. ": ESG. " ). בשנים האחרונות תחומי ה. -.
+
 * [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
   
   Apr 17, 2024 ... זור גוש דן,. לצמצם היקף הטמנה, למנוע פליטת גז. י חממה ולייצר חשמל ... ESG. -. Environmental, Social. Governance. ) ,תונידמ לש ןתוליעפ תמדקב ...
-
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
-  
-  Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
 * [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
