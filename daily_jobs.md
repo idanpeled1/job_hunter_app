@@ -22,7 +22,7 @@
 
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
-  Dec 31, 2023 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל ... רשת ההולכה פרושה על פני כל מדינת ישראל והשטחים הנתונים תחת שלטונה מאז יוני.
+  Dec 31, 2023 ... ... בגוש דן". הדוח. בחן את התקדמות פרויקט ההקמה של קווי הרכבת הקלה בגוש דן. –. הקו האדום, הקו הסגול והקו הירוק. מדובר בדוח מקיף, העוסק. במגוון ...
 
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - מבקר המדינה](https://library.mevaker.gov.il/sites/DigitalLibrary/Documents/2022/2022.5/2022.5-211-Migvan-Biology.pdf) — gov.il (score 0.50)
   
