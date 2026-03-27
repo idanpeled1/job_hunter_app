@@ -1,9 +1,5 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 3.00)
-  
-  Jun 30, 2024 ... מדינת ישראל רואה חשיבות רבה בקידום הצעדים והמשאבים המושקעים בהיבטי קיימות, סביבה, אקלים וחברה. (להלן. ": ESG. " ). בשנים האחרונות תחומי ה. -.
-
 * [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
   
   Apr 17, 2024 ... זור גוש דן,. לצמצם היקף הטמנה, למנוע פליטת גז. י חממה ולייצר חשמל ... ESG. -. Environmental, Social. Governance. ) ,תונידמ לש ןתוליעפ תמדקב ...
@@ -20,6 +16,10 @@
   
   Jan 8, 2023 ... , ירושלים: המכון הישראלי לדמוקרטיה, 2021.פחמן. ישראל 2050 - כלכלה ... בהקשר של גוש דן, ד"ר נורית גל הראתה בעבודתה שעלות של הקמת תחנות גז ...
 
+* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
+  
+  Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
+
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2023 ... ... בגוש דן". הדוח. בחן את התקדמות פרויקט ההקמה של קווי הרכבת הקלה בגוש דן. –. הקו האדום, הקו הסגול והקו הירוק. מדובר בדוח מקיף, העוסק. במגוון ...
@@ -28,10 +28,6 @@
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים, יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
-* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
-  
-  Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
-
 * [בינה מלאכותית בסקטור האנרגיה - אתר הכנסת](https://fs.knesset.gov.il/globaldocs/MMM/184dd353-1b7b-ef11-8160-005056aac6c3/2_184dd353-1b7b-ef11-8160-005056aac6c3_11_20691.pdf) — gov.il (score 0.50)
   
   Nov 7, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
@@ -39,4 +35,8 @@
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
   Jun 29, 2025 ... אני מתכבד להציג בפניכם את הדוחות הכספיים המאוחדים של מדינת ישראל ל. שנת הכספים שהסתיימה. ב. יום. 31. בדצמבר. 2024 . דוחות.
+
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.00)
+  
+  Jun 30, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה. הכלכלה בצמיחה של. 2.7%. (בשיעור שנתי), בשוק עבודה הדוק עם שיעורי.
 
