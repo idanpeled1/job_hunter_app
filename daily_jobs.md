@@ -12,6 +12,10 @@
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
 
+* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+  
+  Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
+
 * [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
@@ -24,9 +28,9 @@
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים. נמצאו. שני. מוקדים. ;. מאז. אותרו מוקדים. נוספים. באזור. 2011. גליל.
 
-* [בינה מלאכותית בסקטור האנרגיה](https://fs.knesset.gov.il/25/Committees/25_cs_bg_9927777.pdf) — gov.il (score 0.50)
+* [בינה מלאכותית בסקטור האנרגיה - אתר הכנסת](https://fs.knesset.gov.il/globaldocs/MMM/184dd353-1b7b-ef11-8160-005056aac6c3/2_184dd353-1b7b-ef11-8160-005056aac6c3_11_20691.pdf) — gov.il (score 0.50)
   
-  Nov 10, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
+  Nov 7, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
