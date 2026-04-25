@@ -1,9 +1,5 @@
 # Daily Jobs Digest
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
-  
-  Apr 17, 2024 ... זור גוש דן,. לצמצם היקף הטמנה, למנוע פליטת גז. י חממה ולייצר חשמל ... ESG. -. Environmental, Social. Governance. ) ,תונידמ לש ןתוליעפ תמדקב ...
-
 * [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
@@ -35,4 +31,8 @@
 * [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
   Jun 30, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה. הכלכלה בצמיחה של. 2.7%. (בשיעור שנתי), בשוק עבודה הדוק עם שיעורי.
+
+* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
+  
+  Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
 
