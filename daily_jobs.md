@@ -1,5 +1,9 @@
 # Daily Jobs Digest
 
+* [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
+  
+  ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
+
 * [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
