@@ -12,7 +12,7 @@
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
 
-* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+* [דוחות כספים ליום 31 בדצמבר 2024 - gov](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
@@ -20,7 +20,7 @@
   
   Mar 31, 2024 ... ... בגוש דן". הדוח. בחן את התקדמות פרויקט ההקמה של קווי הרכבת הקלה בגוש דן. –. הקו האדום, הקו הסגול והקו הירוק. מדובר בדוח מקיף, העוסק. במגוון ...
 
-* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
