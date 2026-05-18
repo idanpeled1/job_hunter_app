@@ -1,6 +1,6 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
+* [הדוחות הכספיים של ממשלת ישראל לשנת - הגשת תלונה במשטרה](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
   
   Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
@@ -12,7 +12,7 @@
   
   Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
 
-* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+* [דוחות כספים ליום 31 בדצמבר 2024 - הגשת תלונה במשטרה](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
