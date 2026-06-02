@@ -1,10 +1,10 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
   
   Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
+* [דוח מדינת ישראל 2023 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
@@ -20,7 +20,7 @@
   
   Mar 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל ... רשת ההולכה פרושה על פני כל מדינת ישראל והשטחים הנתונים תחת שלטונה מאז יוני.
 
-* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
