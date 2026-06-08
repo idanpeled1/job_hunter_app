@@ -1,5 +1,9 @@
 # Daily Jobs Digest
 
+* [מ דינת ישראל דוחות כספיים ליום 31 בדצמבר 2021 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2021/he/financial-reports_financial-reports-2021-AccessibleFile.pdf) — gov.il (score 2.50)
+  
+  ... ESG. Governance). Social,. (Environmental, . הנושא. הנ"ל,. מעבר. להיותו. במרכז. השיח ... ירושלים. -. קו. אדום. 2,726. -. (. )2,726. -. 1,225. 40. (. - )1,265. -.
+
 * [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
