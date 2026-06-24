@@ -8,7 +8,7 @@
   
   Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
 
-* [דוח מדינת ישראל 2023 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
+* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
