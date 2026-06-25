@@ -12,7 +12,7 @@
   
   Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
-* [דוחות כספים ליום 31 בדצמבר 2024 - Gov](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
+* [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
