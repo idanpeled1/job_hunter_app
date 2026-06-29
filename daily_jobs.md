@@ -20,7 +20,7 @@
   
   Mar 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אשר יבחן את החלופות הבאות לעניין ...
 
-* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
