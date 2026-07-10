@@ -8,15 +8,15 @@
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
 
-* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
-  Mar 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אשר יבחן את החלופות הבאות לעניין ...
+  Mar 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל ... רשת ההולכה פרושה על פני כל מדינת ישראל והשטחים הנתונים תחת שלטונה מאז יוני.
 
 * [חברת החשמל לישראל בע"מ דוח תקופתי לשנת 2024 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2024_year/he/companies_data_and_reports_israelelectric_financial_report_2024_year.pdf) — gov.il (score 0.50)
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
-* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
+* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - אתר הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
