@@ -28,7 +28,7 @@
   
   Jun 29, 2025 ... אני מתכבד להציג בפניכם את הדוחות הכספיים המאוחדים של מדינת ישראל ל. שנת הכספים שהסתיימה. ב. יום. 31. בדצמבר. 2024 . דוחות.
 
-* [דוח מדינת ישראל 2023 - Gov](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
+* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
   
   Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
 
