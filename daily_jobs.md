@@ -1,10 +1,10 @@
 # Daily Jobs Digest
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
+* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.50)
   
-  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
+  Apr 17, 2024 ... ... ESG ................................ ......................... 25 ... ירושלים בע"מ. 9. )***(. חברות ממשלתיות. -. תחום פעילות תשתיות. שקמונה ...
 
-* [משרד האוצר Ministry of Finance - Gov](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
+* [משרד האוצר Ministry of Finance - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
   Jun 30, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים. בשנים האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
 
