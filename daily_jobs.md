@@ -1,5 +1,9 @@
 # Daily Jobs Digest
 
+* [2023](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
+  
+  Jun 30, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים. בשנים האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
+
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - אתר הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
