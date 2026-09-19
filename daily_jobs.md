@@ -1,12 +1,8 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 3.00)
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
-  Jun 30, 2024 ... מדינת ישראל רואה חשיבות רבה בקידום הצעדים והמשאבים המושקעים בהיבטי קיימות, סביבה, אקלים וחברה. (להלן. ": ESG. " ). בשנים האחרונות תחומי ה. -.
-
-* [הדוחות הכספיים של מדינת ישראל לשנת 2023 (קובץ לא מונגש) - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.50)
-  
-  Jun 30, 2024 ... ... ESG ................................ .......................... 19 ... ירושלים בע"מ. 9. (***). שקמונה חברה ממשלתית עירונית לשיקום הדיור ...
+  Jun 30, 2024 ... בשנים האחרונות תחומי ה. -. ESG. קודמו באמצעות פרסום תוכניות אסטרטגיות, קביעת יעדים,. קידום ואישור החלטות ממשלה וקידום חקיקה. לאור חשיבות הנושא, ...
 
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
