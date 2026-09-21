@@ -1,16 +1,8 @@
 # Daily Jobs Digest
 
-* [ארכיון וובינר - עמוד 3 מתוך 4 - מכון היצוא הישראלי](https://export.gov.il/college_events_type/webinar/page/3/) — gov.il (score 2.00)
-  
-  href="https://export.gov.il/college_events/esg-guide/" rel="bookmark">מדריך ליצואן הישראלי ESG · What's in the webinar: · Program: · Target Audience: · About the ...
-
 * [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
   Jun 30, 2024 ... בשנים האחרונות תחומי ה. -. ESG. קודמו באמצעות פרסום תוכניות אסטרטגיות, קביעת יעדים,. קידום ואישור החלטות ממשלה וקידום חקיקה. לאור חשיבות הנושא, ...
-
-* [דין וחשבון על החברות הממשלתיות - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/gca_companies_report_2021/he/gca_reports_gca_companies_report_2021-unaccessible-version.pdf) — gov.il (score 1.00)
-  
-  Dec 31, 2022 ... באזור גוש דן, ובכללן החלטות הדוחות את מועדי סיום הפעלת אתר רדינג והקפאת הקמת שתי ... ירושלים, על. כל מרכיביו בכל תחומי התחבורה, תשתיות ...
 
 * [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
