@@ -32,10 +32,6 @@
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
-  
-  Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
-
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
   Jun 29, 2025 ... אני מתכבד להציג בפניכם את הדוחות הכספיים המאוחדים של מדינת ישראל ל. שנת הכספים שהסתיימה. ב. יום. 31. בדצמבר. 2024 . דוחות.
