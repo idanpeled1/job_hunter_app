@@ -1,8 +1,8 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 3.00)
+* [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
-  Jun 30, 2024 ... מדינת ישראל רואה חשיבות רבה בקידום הצעדים והמשאבים המושקעים בהיבטי קיימות, סביבה, אקלים וחברה. (להלן. ": ESG. " ). בשנים האחרונות תחומי ה. -.
+  Jun 30, 2024 ... בשנים האחרונות תחומי ה. -. ESG. קודמו באמצעות פרסום תוכניות אסטרטגיות, קביעת יעדים,. קידום ואישור החלטות ממשלה וקידום חקיקה. לאור חשיבות הנושא, ...
 
 * [דוחות כספים ליום 31 בדצמבר 2024 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
