@@ -1,9 +1,5 @@
 # Daily Jobs Digest
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 2.00)
-  
-  Apr 17, 2024 ... לאור חשיבות הנושא, הדוחות הכספיים של מדינת ישראל כוללים בשנים. האחרונות דיווח בפרק ייעודי המתייחס לתחומי ה. -. ESG . מטרת הדיווח לשקף לקוראי ...
-
 * [הדוחות הכספיים של ממשלת ישראל לשנת - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
   
   Jun 30, 2024 ... בשנים האחרונות תחומי ה. -. ESG. קודמו באמצעות פרסום תוכניות אסטרטגיות, קביעת יעדים,. קידום ואישור החלטות ממשלה וקידום חקיקה. לאור חשיבות הנושא, ...
@@ -35,6 +31,10 @@
 * [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - אתר הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
+
+* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
+  
+  Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
 
 * [החשב הכללי - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
