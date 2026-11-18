@@ -16,7 +16,7 @@
   
   Dec 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אש. ר יבחן את החלופות הבאות לעניין ...
 
-* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023 - Gov.il](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
+* [חברת החשמל לישראל בע"מ - דוח תקופתי לשנת 2023](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/israelelectric_financial_report_2023_year/he/companies-reports_israelelectric_financial_report_2023_year.pdf) — gov.il (score 0.50)
   
   Mar 31, 2024 ... ... בגוש דן יוקם צוות בראשות מנכ"ל משרד האנרגיה ובהשתתפות רשות. החשמל, משרד האוצר ומנהל התכנון במשרד הפנים אשר יבחן את החלופות הבאות לעניין ...
 
@@ -32,7 +32,7 @@
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
-* [דוח מדינת ישראל 2023 - Gov.il](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
+* [דוח מדינת ישראל 2023](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
   
   Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
 
