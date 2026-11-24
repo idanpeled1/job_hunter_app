@@ -1,9 +1,5 @@
 # Daily Jobs Digest
 
-* [הדוחות הכספיים של ממשלת ישראל לשנת](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 2.00)
-  
-  Jun 30, 2024 ... בשנים האחרונות תחומי ה. -. ESG. קודמו באמצעות פרסום תוכניות אסטרטגיות, קביעת יעדים,. קידום ואישור החלטות ממשלה וקידום חקיקה. לאור חשיבות הנושא, ...
-
 * [דוחות כספים ליום 31 בדצמבר 2024 - govil](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2024/he/financial-reports_financial-reports-2024-AccessibleFile.pdf) — gov.il (score 1.00)
   
   Jun 23, 2025 ... ... ירושלים בע"מ. 9. שנים. קודמות. הסתייגות. שקמונה חברה ... את הציר הדרומי של טבעת הדרכים מסביב למטרופולין גוש דן, לתקופה של. 25. שנה, עד לשנת. 2031.
@@ -24,17 +20,21 @@
   
   ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים, יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
 
-* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - אתר הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
-  
-  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
-
 * [בינה מלאכותית בסקטור האנרגיה - אתר הכנסת](https://fs.knesset.gov.il/globaldocs/MMM/184dd353-1b7b-ef11-8160-005056aac6c3/2_184dd353-1b7b-ef11-8160-005056aac6c3_11_20691.pdf) — gov.il (score 0.50)
   
   Nov 7, 2024 ... הנוסף שאמור לקום בגוש דן עד. 2030 . 3.4.1. תחזיות צריכ. ת. החשמל. של. חוות שרתים. בישראל. תוכנית פיתוח רשת החלוקה של חברת החשמל כוללת התייחסות ...
 
+* [מניעת נזקי מינים פולשים ושמירה על המגוון הביולוגי - אתר הכנסת](https://fs.knesset.gov.il/24/Committees/24_cs_bg_625911.pdf) — gov.il (score 0.50)
+  
+  ... דן, המגנה על טווח רחב של בתי גדול. 27. המשרד להגנת הסביבה,. התוכנית הלאומית ... ירושלים,. יכולה להיות השפעה. סביבתית ניכרת על רכיבים אקולוגים כמו עושר ...
+
 * [דוח מדינת ישראל 2023](https://www.gov.il/BlobFolder/reports/financial-reports-2023-main/he/financial-reports_financial-reports-2023-AccessibleFile.pdf) — gov.il (score 0.00)
   
   Apr 17, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה הכלכלה בצמיחה של. 2.7%. )בשיעור שנתי(, בשוק עבודה הדוק עם שיעורי.
+
+* [2023](https://www.gov.il/BlobFolder/dynamiccollectorresultitem/financial-reports-2023/he/financial-reports_financial-reports-2023-UnAccessibleFile.pdf) — gov.il (score 0.00)
+  
+  Jun 30, 2024 ... טרום המלחמה, נכון לסוף רבעון השלישי לשנת. 2023. , התאפיינה. הכלכלה בצמיחה של. 2.7%. (בשיעור שנתי), בשוק עבודה הדוק עם שיעורי.
 
 * [החשב הכללי - govil](https://www.gov.il/BlobFolder/reports/financial-reports-2024-main/he/financial-reports_financial-reports-2024-UnAccessibleFile.pdf) — gov.il (score 0.00)
   
